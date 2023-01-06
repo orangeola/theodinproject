@@ -5,6 +5,8 @@
 // for the code doing that.
 // format: ('_trackEvent', category, action, label, value)
 
+let i = 5;
+
 window.addEventListener('DOMContentLoaded', () => {
   // see_lesson_buttons.html.erb for lesson button analytics
 
